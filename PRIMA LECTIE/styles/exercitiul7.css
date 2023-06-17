@@ -1,0 +1,109 @@
+/* .image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 200px;
+} */
+
+/* .exercise-input {
+  font-size: 16px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  border-radius: 8px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 15px;
+  padding-right: 15px;
+} */
+/* ------------------------------------------------ */
+
+/* .exercise-input {
+  border: none;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  width: 400px;
+  font-size: 16px;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+} */
+
+/* ------------------------------------------------ */
+/* p {
+  color: rgb(100, 100, 100);
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.exercise-input {
+  font-size: 16px;
+  border-radius: 4px;
+  border-style: solid;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 400px;
+  margin-bottom: 20px;
+  border-width: 2px;
+  border-color: rgb(100, 100, 100);
+}
+.btn-class {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  cursor: pointer;
+  border-radius: 50px;
+  font-size: 20px;
+}
+.email {
+  margin-bottom: 20px;
+}
+.paragraph {
+  margin-bottom: 20px;
+} */
+
+/* ------------------------------------------------ */
+
+.image {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-right: 5px;
+}
+.exercise-input {
+  /* border: none; */
+  vertical-align: middle;
+
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 18px;
+  border-radius: 30px;
+  width: 300px;
+  border: none;
+}
+.btn-class {
+  vertical-align: middle;
+  background-color: rgb(0, 166, 255);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-weight: bold;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  cursor: pointer;
+}
