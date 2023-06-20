@@ -1,0 +1,171 @@
+/* 8a */
+
+/* .name-input,
+.email-input {
+  display: block;
+  margin-bottom: 10px;
+} */
+
+/* 8b */
+/* .paragraph-class {
+  vertical-align: middle;
+  display: inline-block;
+  width: 200px;
+}
+.yes-btn,
+.no-btn {
+  vertical-align: middle;
+} */
+
+/* 8c */
+/* .logo-class {
+  margin-left: 600px;
+  margin-top: 100px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input-class {
+  margin-top: 0;
+  margin-left: 480px;
+  font-size: 16px;
+  width: 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 30px;
+  border: none;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+} */
+
+/* 8d */
+/* .first-class {
+  width: 88px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+.second-class {
+  width: 88px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+.email-class {
+  margin-top: 10px;
+  display: block;
+  width: 211.5px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+}
+.button-class {
+  background-color: rgb(47, 127, 231);
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 96px;
+  padding-right: 96px;
+} */
+
+/* input {
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(200, 200, 200);
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.first-name {
+  width: 148px;
+}
+
+.last-name {
+  width: 148px;
+}
+
+.email {
+  display: block;
+  width: 300px;
+}
+
+button {
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border: none;
+  width: 300px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 8px;
+} */
+/* just one class for the things that are repeating, for the inputs */
+
+/* 8e */
+p {
+  font-family: Arial;
+}
+.paragraph-class {
+  font-size: 32px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+input {
+  display: block;
+  background-color: rgb(240, 240, 240);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 14px;
+  padding-right: 14px;
+  width: 300px;
+  border: none;
+}
+.first-class {
+  margin-bottom: 8px;
+}
+.second-class {
+  margin-bottom: 30px;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  cursor: pointer;
+}
+.button-class1 {
+  background-color: black;
+  color: white;
+}
+.button-class2 {
+  background-color: rgb(240, 240, 240);
+}
