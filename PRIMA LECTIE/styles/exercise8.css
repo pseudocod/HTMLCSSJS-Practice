@@ -18,16 +18,21 @@
 } */
 
 /* 8c */
-/* .logo-class {
-  margin-left: 600px;
-  margin-top: 100px;
+.google-page-div {
+  border: solid black;
+  display: inline-block;
+  margin-left: 700px;
+  margin-top: 200px;
+}
+.logo-class {
+  margin-left: 120px;
   display: block;
   margin-bottom: 10px;
+  cursor: pointer;
 }
 
 .input-class {
   margin-top: 0;
-  margin-left: 480px;
   font-size: 16px;
   width: 500px;
   padding-top: 10px;
@@ -37,8 +42,12 @@
   border-radius: 30px;
   border: none;
   box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
-} */
+  display: block;
+}
 
+button {
+  cursor: pointer;
+}
 /* 8d */
 /* .first-class {
   width: 88px;
@@ -129,7 +138,7 @@ button {
 /* just one class for the things that are repeating, for the inputs */
 
 /* 8e */
-p {
+/* p {
   font-family: Arial;
 }
 .paragraph-class {
@@ -168,4 +177,4 @@ button {
 }
 .button-class2 {
   background-color: rgb(240, 240, 240);
-}
+} */
