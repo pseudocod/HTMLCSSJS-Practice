@@ -1,0 +1,53 @@
+.box-class {
+  margin-right: 15px;
+  font-family: Arial;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  display: inline-block;
+  width: 200px;
+  padding-bottom: 10px;
+  vertical-align: top;
+}
+.image-class {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.name-class {
+  margin-left: 10px;
+  font-weight: bold;
+}
+.paragraph-class {
+  display: inline-block;
+  vertical-align: middle;
+  color: rgb(100, 100, 100);
+}
+.button-class {
+  margin-left: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 14px;
+  padding-right: 14px;
+  background-color: rgb(24, 119, 242);
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.mutual-friend-img {
+  height: 28px;
+  width: 28px;
+  object-fit: cover;
+  border-radius: 14px;
+  vertical-align: middle;
+  margin-right: 4px;
+}
+
+.mutual-friend-div {
+  margin-bottom: 10px;
+  padding-left: 8px;
+}
